@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prudvi Raj</h1>
-<h3 align="center">Enthusiastic CS Student | Diving deep into Java and Cloud Computing | Exploring new technologiestend developer from India</h3>
+<h3 align="center">Enthusiastic CS Student | Diving deep into Java and Cloud Computing | Exploring new technologies  developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prudviba&label=Profile%20views&color=0e75b6&style=flat" alt="prudviba" /> </p>
 
