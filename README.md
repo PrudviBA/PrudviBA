@@ -1,24 +1,28 @@
 <h1 align="center">Hi 👋, I'm Prudvi Raj</h1>
-<h3 align="center">Enthusiastic CS Student | Diving deep into Java and Cloud Computing | Exploring new technologies  developer from India</h3>
+<h3 align="center">💻 Enthusiastic CS Student | DevOps & Cloud Enthusiast | Java Learner from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prudviba&label=Profile%20views&color=0e75b6&style=flat" alt="prudviba" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=prudviba&label=Profile%20views&color=0e75b6&style=flat" alt="prudviba" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prudviba" alt="prudviba" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=prudviba" alt="prudviba" />
+  </a> 
+</p>
 
-- 🔭 I’m currently working on **Java projects |Learning cloud computing and Git**
+- 🔭 I’m currently working on **Java & DevOps projects | Gaining hands-on with CI/CD, Docker, and Git**
 
-- 🌱 I’m currently learning **Java collections framework| advanced Java frameworks |Cloud computing fundamentals |SQL| Computer networks**
+- 🌱 I’m currently learning **Cloud Computing (AWS) | DevOps tools (Docker, GitHub Actions, Jenkins)**
 
-- 👯 I’m looking to collaborate on **Web development projects using HTML, CSS**
+- 👯 I’m looking to collaborate on **DevOps automation & Web-based Java projects**
 
-- 🤝 I’m looking for help with **Cloud computing projects**
+- 🤝 I’m looking for help with **Building cloud-native apps | Automating deployments using DevOps tools**
 
-- 💬 Ask me about **Beginner-friendly cloud computing concepts |Database design basics |Core Java concepts**
+- 💬 Ask me about **Beginner-friendly DevOps workflows | Java fundamentals | Basic AWS services**
 
-- 📫 How to reach me **www.linkedin.com/in/ prudvi-raju-borapu-25299b314**
-
-- ⚡ Fun fact **I believe the cloud isn’t just in the sky—it’s where the future of tech lies, and Java is my go-to tool to explore it!**
-
+- ⚙️ Tools & Technologies:  
+  `Java` | `Git` | `GitHub Actions` | `Docker` | `Linux (Bash)` | `AWS EC2` | `SQL` | `HTML & CSS`
 <h3 align="left">Connect with me: prudviraj.cs@gmail.com</h3>
 <p align="left">
 </p>
