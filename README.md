@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I believe the cloud isn’t just in the sky—it’s where the future of tech lies, and Java is my go-to tool to explore it!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: prudviraj.cs@gmail.com</h3>
 <p align="left">
 </p>
 
